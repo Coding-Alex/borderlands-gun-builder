@@ -10,10 +10,17 @@ weapon_types = [
 ]
 
 rarity_types = [
-    "white",
-    "green",
-    "blue",
-    "purple",
-    "orange",
-    "pearlescent"
+    "White",
+    "Green",
+    "Blue",
+    "Purple",
+    "Orange",
+    "Pearlescent"
+]
+
+elemental_effects = [
+    "Fire",
+    "Shock",
+    "Explosive",
+    "Corrosive"
 ]
