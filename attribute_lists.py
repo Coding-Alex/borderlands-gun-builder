@@ -8,3 +8,12 @@ weapon_types = [
     "Rocket launcher",
     "Eridian"
 ]
+
+rarity_types = [
+    "white",
+    "green",
+    "blue",
+    "purple",
+    "orange",
+    "pearlescent"
+]
