@@ -24,3 +24,18 @@ elemental_effects = [
     "Explosive",
     "Corrosive"
 ]
+
+manufacturers = [
+    "Atlas",
+    "Bandit",
+    "Dahl",
+    "Eridians",
+    "Gearbox",
+    "Hyperion",
+    "Jakobs",
+    "Maliwan",
+    "S&S Munitions",
+    "Tediore",
+    "Torgue",
+    "Vladof"
+]
